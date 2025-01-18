@@ -1,0 +1,5 @@
+content/*
+hls_file/*
+.env
+config.ini
+venv/*
