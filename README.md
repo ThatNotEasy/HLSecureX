@@ -50,3 +50,6 @@ Flask serves:
 ![image](https://github.com/user-attachments/assets/73060f9d-8d59-49db-b5e6-d4d04f28ba2c)
 
 ---
+
+### Demo
+- https://hlsjs.video-dev.org/demo/
